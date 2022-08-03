@@ -1,0 +1,279 @@
+Arbol,Altura,DAP,LtNG,LtNM,LtNS,LngOG,LngOM,LngOS,Especie,Acronimo,Crecimiento,Rep,Trep,Orientaci_n,Cobertura
+1,20,29,19,29,10.4,97,2,19,Fibrillithecis confusa,FiCon,Cos,Asex,Isid,Sur,4
+1,20,29,19,29,10.4,97,2,19,Herpothallon roseocintum,HeRos,Cos,Asex,Isid,Sur,18
+1,20,29,19,29,10.4,97,2,19,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Sur,6
+1,20,29,19,29,10.4,97,2,19,Hypotrachyna sp. ,HySp,Fol,NaN,NaN,Sur,8
+1,20,29,19,29,10.4,97,2,19,Ocellularia landronii,OcLa,Cos,Sex,Apot,Sur,44
+1,20,29,19,29,10.4,97,2,19,Parmotrema rampoddense,PaRam,Fol,Asex,Sor,Sur,8
+1,20,29,19,29,10.4,97,2,19,Porina distans,PorDi,Cos,Asex,Isid,Norte,28
+2,15,21,19,29,10.4,97,2,19,Ocellularia sp. 1,OcSp1,Cos,NaN,NaN,Sur,28
+2,15,21,19,29,10.4,97,2,19,Phyllopsora cf. swinscowii,PhSwi,Cos,Asex,Isid,Sur,24
+2,15,21,19,29,10.4,97,2,19,Phyllopsora sp.,PhlSp,Cos,NaN,NaN,Sur,10
+5,25,70,19,29,10.4,97,2,19,Herpothallon sp.,HeSp,Cos,Asex,Isid,Oeste,48
+5,25,70,19,29,10.4,97,2,19,Ocellularia sp. 1,OcSp1,Cos,NaN,NaN,Oeste,116
+7,24,48,19,29,10.4,97,2,19,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Noroeste,16
+7,24,48,19,29,10.4,97,2,19,Sprucidea gymnopiperis,SpGym,Cos,Asex,Isid,Noroeste,52
+7,24,48,19,29,10.4,97,2,19,Thelotrema lepadium,ThLep,Cos,Sex,Apot,Noroeste,24
+8,17,31,19,29,10.4,97,2,19,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Sur,2
+8,17,31,19,29,10.4,97,2,19,Ocellularia sp. 1,OcSp1,Cos,NaN,NaN,Norte,200
+8,17,31,19,29,10.4,97,2,19,Ocellularia sp. 1,OcSp1,Cos,NaN,NaN,Sur,262
+9,23,53,19,29,10.5,97,2,18.9,Hypotrachyna cf. isidiocera,HyIsi,Fol,Asex,Isid,Sureste,5
+9,23,53,19,29,10.5,97,2,18.9,Parmotrema flavescens,PaFla,Fol,Asex,Isid,Sureste,8
+9,23,53,19,29,10.5,97,2,18.9,Parmotrema sp. ,PaSp,Fol,NaN,NaN,Sureste,4
+9,23,53,19,29,10.5,97,2,18.9,Punctelia sp.,PuSp,Fol,NaN,NaN,Sureste,16
+9,23,53,19,29,10.5,97,2,18.9,Usnea cf. brasiliensis,UsBra,Frut,Asex,Sor,Sureste,4
+11,11.8,29,19,29,10.5,97,2,18.9,Herpothallon philippinum,HePhi,Cos,Asex,Isid,Noreste,2.5
+13,16.6,76,19,29,10.5,97,2,18.9,Fibrillithecis confusa,FiCon,Cos,Asex,Isid,Sur,20
+13,16.6,76,19,29,10.5,97,2,18.9,Herpothallon roseocintum,HeRos,Cos,Asex,Isid,Sur,4
+13,16.6,76,19,29,10.5,97,2,18.9,Hypotrachyna cf. isidiocera,HyIsi,Fol,Asex,Isid,Norte,8
+13,16.6,76,19,29,10.5,97,2,18.9,Parmotrema rampoddense,PaRam,Fol,Asex,Sor,Sur,30
+13,16.6,76,19,29,10.5,97,2,18.9,Usnea cf. filipendula,UsFil,Frut,Asex,Isid,Norte,8
+13,16.6,76,19,29,10.5,97,2,18.9,Usnea cf. subfloridana,UsSub,Frut,Asex,Sor,Norte,58
+14,12.5,36,19,29,13.1,97,2,20.7,Hypotrachyna cf. isidiocera,HyIsi,Fol,Asex,Isid,Noreste,12
+14,12.5,36,19,29,13.1,97,2,20.7,Hypotrachyna vexans,HyVex,Fol,Asex,Isid,Noreste,18
+14,12.5,36,19,29,13.1,97,2,20.7,Parmotrema flavescens,PaFla,Fol,Asex,Isid,Suroeste,18
+14,12.5,36,19,29,13.1,97,2,20.7,Parmotrema reticulatum,PaRet,Fol,Asex,Sor,Suroeste,8
+14,12.5,36,19,29,13.1,97,2,20.7,Parmotrema subisidiosum,PaSub,Fol,Asex,Isid,Suroeste,94
+14,12.5,36,19,29,13.1,97,2,20.7,Usnea cf. filipendula,UsFil,Frut,Asex,Isid,Noreste,4
+14,12.5,36,19,29,13.1,97,2,20.7,Usnea cf. mexicana,UsMex,Frut,Asex,Sor,Noreste,56
+14,12.5,36,19,29,13.1,97,2,20.7,Usnea cf. mexicana,UsMex,Frut,Asex,Sor,Suroeste,108
+15,14,35,19,29,13.1,97,2,20.7,Hypotrachyna cf. dentella,HyDe,Fol,Asex,Isid,Noroeste,22
+15,14,35,19,29,13.1,97,2,20.7,Hypotrachyna sp. isidiada,HySpI,Fol,Asex,Isid,Noroeste,20
+15,14,35,19,29,13.1,97,2,20.7,Parmotrema reticulatum,PaRet,Fol,Asex,Sor,Noroeste,16
+15,14,35,19,29,13.1,97,2,20.7,Phyllopsora sp.,PhlSp,Cos,NaN,NaN,Sureste,92
+15,14,35,19,29,13.1,97,2,20.7,Usnea cf. mexicana,UsMex,Frut,Asex,Sor,Noroeste,116
+16,15,45,19,29,13.1,97,2,20.7,Cresponea chloroconia,CrChl,Cos,Sex,Apot,Suroeste,114
+16,15,45,19,29,13.1,97,2,20.7,Parmotrema cf. subarnoldii,PaSba,Fol,Asex,Sor,Noreste,22
+16,15,45,19,29,13.1,97,2,20.7,Parmotrema flavescens,PaFla,Fol,Asex,Isid,Noreste,4
+16,15,45,19,29,13.1,97,2,20.7,Parmotrema flavescens,PaFla,Fol,Asex,Isid,Suroeste,16
+16,15,45,19,29,13.1,97,2,20.7,Parmotrema rampoddense,PaRam,Fol,Asex,Sor,Suroeste,32
+16,15,45,19,29,13.1,97,2,20.7,Usnea cf. mexicana,UsMex,Frut,Asex,Sor,Noreste,200
+16,15,45,19,29,13.1,97,2,20.7,Usnea cf. rubicunda,UsRub,Frut,Asex,Sor,Noreste,52
+16,15,45,19,29,13.1,97,2,20.7,Usnea cf. subfloridana,UsSub,Frut,Asex,Sor,Noreste,284
+17,16,49,19,29,13.1,97,2,20.7,Graphis mexicana,GrMex,Cos,Sex,Lirel,Suroeste,68
+17,16,49,19,29,13.1,97,2,20.7,Hypotrachyna cf. isidiocera,HyIsi,Fol,Asex,Isid,Noreste,12
+17,16,49,19,29,13.1,97,2,20.7,Hypotrachyna cf. neocrenata,HyNeo,Fol,Asex,Isid,Suroeste,38.68
+17,16,49,19,29,13.1,97,2,20.7,Hypotrachyna sp. isidiada,HyIsi,Fol,Asex,Isid,Suroeste,77.36
+17,16,49,19,29,13.1,97,2,20.7,Parmeliella sp.,ParSp,Fol,NaN,NaN,Suroeste,4
+17,16,49,19,29,13.1,97,2,20.7,Parmotrema cf. subarnoldii,PaSba,Fol,Asex,Sor,Suroeste,124
+17,16,49,19,29,13.1,97,2,20.7,Parmotrema reticulatum,PaRet,Fol,Asex,Sor,Noreste,28
+17,16,49,19,29,13.1,97,2,20.7,Usnea cf. subfloridana,UsSub,Fol,Asex,Sor,Noreste,108
+19,11,44,19,29,13.1,97,2,20.7,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Suroeste,4.8
+20,15,28,19,29,14.8,97,2,22.4,Graphis rimulosa,GrRim,Cos,Sex,Lirel,Sureste,10
+20,15,28,19,29,14.8,97,2,22.4,Hypotrachyna sp. ,HySp,Fol,NaN,NaN,Sureste,4
+20,15,28,19,29,14.8,97,2,22.4,Hypotrachyna sp. isidiada,HySpI,Fol,Asex,Isid,Noroeste,26
+20,15,28,19,29,14.8,97,2,22.4,Parmotrema flavescens,PaFla,Fol,Asex,Isid,Noroeste,148
+20,15,28,19,29,14.8,97,2,22.4,Pertusaria cf. tetrathalamia,PeTet,Cos,Sex,Apot,Sureste,10
+20,15,28,19,29,14.8,97,2,22.4,Thelotrema lepadium,ThLep,Cos,Sex,Apot,Noroeste,8
+20,15,28,19,29,14.8,97,2,22.4,Usnea cf. mexicana,UsMex,Frut,Asex,Sor,Sureste,20
+20,15,28,19,29,14.8,97,2,22.4,Usnea cf. subfloridana,UsSub,Frut,Asex,Sor,Noroeste,12
+20,15,28,19,29,14.8,97,2,22.4,Usnea sp.,UsSp,Frut,NaN,NaN,Noroeste,4
+23,15,6,19,29,14.8,97,2,22.4,Hypotrachyna sp. isidiada,HySpI,Fol,Asex,Isid,Noroeste,28
+23,15,6,19,29,14.8,97,2,22.4,Lopezaria versicolor,LoVer,Cos,Sex,Apot,Noroeste,44
+23,15,6,19,29,14.8,97,2,22.4,Parmotrema flavescens,PaFla,Fol,Asex,Isid,Noroeste,8
+23,15,6,19,29,14.8,97,2,22.4,Punctelia hypoleucites,PuHyp,Fol,Sex,Apot,Noroeste,60
+23,15,6,19,29,14.8,97,2,22.4,Usnea cf. mexicana,UsMex,Frut,Asex,Sor,Noroeste,68
+26,10,18,19,29,14.8,97,2,22.4,Hypotrachyna cf. pulvinata,HyPul,Fol,Sex,Apot,Noreste,22
+27,15,18,19,29,14.8,97,2,22.4,Herpothallon roseocintum,HeRos,Cos,Asex,Isid,Sur,2.8
+27,15,18,19,29,14.8,97,2,22.4,Hypotrachyna cf. pulvinata,HyPul,Fol,Sex,Apot,Norte,4
+27,15,18,19,29,14.8,97,2,22.4,Lopezaria versicolor,LoVer,Cos,Sex,Apot,Norte,12
+27,15,18,19,29,14.8,97,2,22.4,Megalospora sulphurata,MeSul,Cos,Sex,Apot,Sur,24
+27,15,18,19,29,14.8,97,2,22.4,Parmotrema flavescens,PaFla,Fol,Asex,Isid,Norte,44
+27,15,18,19,29,14.8,97,2,22.4,Polyblastidium japonicum,PolJa,Fol,Asex,Sor,Norte,4
+27,15,18,19,29,14.8,97,2,22.4,Remototrachyna aff. costaricensis,ReCst,Fol,Asex,Isid,Norte,54
+28,15,17,19,29,14.8,97,2,22.4,Brigantiaea leucoxantha,BrLeu,Cos,Sex,Apot,Norte,20
+28,15,17,19,29,14.8,97,2,22.4,Fibrillithecis confusa,FiCon,Cos,Asex,Isid,Sur,10
+28,15,17,19,29,14.8,97,2,22.4,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Sur,8
+28,15,17,19,29,14.8,97,2,22.4,Leptogium milligranum,LeMil,Fol,Asex,Isid,Norte,12
+28,15,17,19,29,14.8,97,2,22.4,Leucodermia cf. appalachensis,LeApp,Fol,Asex,Sor,Norte,5.2
+28,15,17,19,29,14.8,97,2,22.4,Parmotrema cf. subarnoldii,PaSba,Fol,Asex,Sor,Sur,52
+28,15,17,19,29,14.8,97,2,22.4,Polyblastidium japonicum,PolJa,Fol,Asex,Sor,Sur,14
+28,15,17,19,29,14.8,97,2,22.4,Usnea cf. brasiliensis,UsBra,Frut,Asex,Sor,Sur,20
+32,24,44,19,29,14.8,97,2,22.4,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Norte,96
+32,24,44,19,29,14.8,97,2,22.4,Hypotrachyna vexans,HyVex,Fol,Asex,Isid,Sur,14
+33,20,25,19,29,14.8,97,2,22.4,Fibrillithecis confusa,FiCon,Cos,Asex,Isid,Noroeste,10
+33,20,25,19,29,14.8,97,2,22.4,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Noroeste,2
+33,20,25,19,29,14.8,97,2,22.4,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Sureste,16
+33,20,25,19,29,14.8,97,2,22.4,Hypotrachyna sp. ,HySp,Fol,NaN,NaN,Noroeste,24
+33,20,25,19,29,14.8,97,2,22.4,Lopezaria versicolor,LoVer,Cos,Sex,Apot,Sureste,236
+33,20,25,19,29,14.8,97,2,22.4,Parmotrema reticulatum,PaRet,Fol,Asex,Sor,Noroeste,28
+33,20,25,19,29,14.8,97,2,22.4,Parmotrema subisidiosum,PaSub,Fol,Asex,Isid,Sureste,20
+33,20,25,19,29,14.8,97,2,22.4,Polyblastidium japonicum,PolJa,Fol,Asex,Sor,Noroeste,10
+34,24,25,19,29,14.8,97,2,22.4,Brigantiaea leucoxantha,BrLeu,Cos,Sex,Apot,Noroeste,56
+34,24,25,19,29,14.8,97,2,22.4,Herpothallon roseocintum,HeRos,Cos,Asex,Isid,Noroeste,6
+34,24,25,19,29,14.8,97,2,22.4,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Sureste,4.8
+34,24,25,19,29,14.8,97,2,22.4,Heterodermia c.f. isidiophora,HeIsi,Fol,Asex,Isid,Noroeste,24
+34,24,25,19,29,14.8,97,2,22.4,Parmeliella sp.,ParSp,Fol,NaN,NaN,Noroeste,18
+34,24,25,19,29,14.8,97,2,22.4,Parmotrema cf. latissimum,PaLat,Fol,Sex,Apot,Noroeste,96
+40,13,55,19,29,14.8,97,2,22.4,Parmotrema cf. latissimum,PaLat,Fol,Sex,Apot,Sureste,40
+40,13,55,19,29,14.8,97,2,22.4,Parmotrema flavescens,PaFla,Fol,Asex,Isid,Sureste,56
+40,13,55,19,29,14.8,97,2,22.4,Parmotrema rampoddense,PaRam,Fol,Asex,Sor,Sureste,72
+41,15,28,19,29,16.4,97,2,24.1,Anzia americana,AnAm,Fol,Asex,sor,Suroeste,8
+41,15,28,19,29,16.4,97,2,24.1,Cladonia coniocraea,ClCon,Com,Sex,Apot,Noreste,8
+41,15,28,19,29,16.4,97,2,24.1,Hypotrachyna cf. isidiocera,HyIsi,Fol,Asex,Isid,Suroeste,8
+41,15,28,19,29,16.4,97,2,24.1,Hypotrachyna cf. pseudosinuosa,HyPse,Fol,Asex,Sor,Suroeste,10
+41,15,28,19,29,16.4,97,2,24.1,Parmotrema cf. latissimum,PaLat,Fol,Sex,Apot,Noreste,16
+41,15,28,19,29,16.4,97,2,24.1,Parmotrema flavescens,PaFla,Fol,Asex,Isid,Suroeste,56
+41,15,28,19,29,16.4,97,2,24.1,Polyblastidium japonicum,PolJa,Fol,Asex,Sor,Suroeste,12
+42,16,16,19,29,16.4,97,2,24.1,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Noreste,8
+42,16,16,19,29,16.4,97,2,24.1,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Suroeste,32
+42,16,16,19,29,16.4,97,2,24.1,Parmotrema flavescens,PaFla,Fol,Asex,Isid,Noreste,4
+42,16,16,19,29,16.4,97,2,24.1,Phyllopsora sp.,PhlSp,Cos,NaN,NaN,Noreste,144
+42,16,16,19,29,16.4,97,2,24.1,Phyllopsora sp.,PhlSp,Cos,NaN,NaN,Suroeste,24
+43,17,21,19,29,16.4,97,2,24.1,Cladonia coniocraea,ClCon,Com,Sex,Apot,Norte,4
+43,17,21,19,29,16.4,97,2,24.1,Fibrillithecis confusa,FiCon,Cos,Asex,Isid,Sur,4
+43,17,21,19,29,16.4,97,2,24.1,Herpothallon philippinum,HePhi,Cos,Asex,Isid,Sur,20
+43,17,21,19,29,16.4,97,2,24.1,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Sur,20
+43,17,21,19,29,16.4,97,2,24.1,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Norte,20
+43,17,21,19,29,16.4,97,2,24.1,Parmotrema cf. latissimum,PaLat,Fol,Sex,Apot,Norte,12
+43,17,21,19,29,16.4,97,2,24.1,Parmotrema subisidiosum,PaSub,Fol,Asex,Isid,Sur,16
+43,17,21,19,29,16.4,97,2,24.1,Usnea cf. mexicana,UsMex,Frut,Asex,Sor,Norte,8
+45,15,17,19,29,16.4,97,2,24.1,Cladonia coniocraea,ClCon,Com,Sex,Apot,Norte,16
+45,15,17,19,29,16.4,97,2,24.1,Fibrillithecis confusa,FiCon,Cos,Asex,Isid,Norte,12
+45,15,17,19,29,16.4,97,2,24.1,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Sur,4
+45,15,17,19,29,16.4,97,2,24.1,Heterodermia cf. isidiophora,HeIsi,Fol,Asex,Isid,Sur,148
+45,15,17,19,29,16.4,97,2,24.1,Parmotrema subisidiosum,PaSub,Fol,Asex,Isid,Sur,8
+45,15,17,19,29,16.4,97,2,24.1,Phyllopsora sp.,PhlSp,Cos,NaN,NaN,Sur,76
+47,20,31,19,29,16.4,97,2,24.1,Brigantiaea leucoxantha,BrLeu,Cos,Sex,Apot,Este,20
+47,20,31,19,29,16.4,97,2,24.1,Fibrillithecis confusa,FiCon,Cos,Asex,Isid,Oeste,44
+47,20,31,19,29,16.4,97,2,24.1,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Oeste,4
+47,20,31,19,29,16.4,97,2,24.1,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Este,16
+47,20,31,19,29,16.4,97,2,24.1,Hypotrachyna cf. isidiocera,HyIsi,Fol,Asex,Isid,Este,28
+47,20,31,19,29,16.4,97,2,24.1,Parmotrema cf. latissimum,PaLat,Fol,Sex,Apot,Oeste,12
+47,20,31,19,29,16.4,97,2,24.1,Remototrachyna cf. costaricensis,ReCst,Fol,Asex,Isid,Oeste,56
+47,20,31,19,29,16.4,97,2,24.1,Syncesia farinacea,SyFa,Cos,Sex,Apot,Este,48
+47,20,31,19,29,16.4,97,2,24.1,Usnea cf. mexicana,UsMex,Frut,Asex,Sor,Oeste,36
+51,10,44,19,29,16.4,97,2,24.1,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Oeste,68
+51,10,44,19,29,16.4,97,2,24.1,Parmotrema flavescens,PaFla,Fol,Asex,Isid,Oeste,20
+54,20,22,19,29,16.4,97,2,24.1,Graphis sp.,GrSp,Cos,Sex,Lirel,Norte,72
+54,20,22,19,29,16.4,97,2,24.1,Hypotrachyna cf. punoensis,HyPun,Fol,Asex,Sor,Norte,28
+54,20,22,19,29,16.4,97,2,24.1,Parmotrema cf. latissimum,PaLat,Fol,Sex,Apot,Norte,480
+54,20,22,19,29,16.4,97,2,24.1,Parmotrema flavescens,PaFla,Fol,Asex,Isid,Norte,24
+54,20,22,19,29,16.4,97,2,24.1,Pertusaria sp.,PeSp,Cos,NaN,NaN,Norte,32
+54,20,22,19,29,16.4,97,2,24.1,Phyllopsora cf. swinscowii,PhSwi,Cos,Asex,Isid,Norte,24
+58,18,17,19,29,16.4,97,2,24.1,Fibrillithecis confusa,FiCon,Cos,Asex,Isid,Oeste,24
+58,18,17,19,29,16.4,97,2,24.1,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Este,12
+58,18,17,19,29,16.4,97,2,24.1,Hypotrachyna cf. punoensis,HyPun,Fol,Asex,Sor,Este,72
+58,18,17,19,29,16.4,97,2,24.1,Lopezaria versicolor,LoVer,Cos,Sex,Apot,Este,44
+58,18,17,19,29,16.4,97,2,24.1,Parmotrema flavescens,PaFla,Fol,Asex,Isid,Este,8
+58,18,17,19,29,16.4,97,2,24.1,Parmotrema reticulatum,PaRet,Fol,Asex,Sor,Este,24
+58,18,17,19,29,16.4,97,2,24.1,Phyllopsora cf. swinscowii,PhSwi,Cos,Asex,Isid,Este,16
+58,18,17,19,29,16.4,97,2,24.1,Polyblastidium japonicum,PolJa,Fol,Asex,Sor,Oeste,8
+58,18,17,19,29,16.4,97,2,24.1,Punctelia hypoleucites,PuHyp,Fol,Sex,Apot,Oeste,36
+62,20,20,19,29,16.4,97,2,24.1,Herpothallon philippinum,HePhi,Cos,Asex,Isid,Norte,8
+62,20,20,19,29,16.4,97,2,24.1,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Norte,16
+62,20,20,19,29,16.4,97,2,24.1,Lopezaria versicolor,LoVer,Cos,Sex,Apot,Sur,104
+62,20,20,19,29,16.4,97,2,24.1,Phyllopsora sp.,PhlSp,Cos,NaN,NaN,Norte,8
+64,15,19,19,29,17.9,97,2,25.8,Cresponea chloroconia,CrChl,Cos,Sex,Apot,Sur,24
+64,15,19,19,29,17.9,97,2,25.8,Cresponea chloroconia,CrChl,Cos,Sex,Apot,Norte,24
+64,15,19,19,29,17.9,97,2,25.8,Parmotrema flavescens,PaFla,Fol,Asex,Isid,Norte,68
+64,15,19,19,29,17.9,97,2,25.8,Pertusaria sp.,PeSp,Cos,NaN,NaN,Sur,8
+64,15,19,19,29,17.9,97,2,25.8,Pertusaria ventosa,PeVen,Cos,Sex,Apot,Norte,24
+64,15,19,19,29,17.9,97,2,25.8,Phlyctis boliviensis,PhBol,Cos,Sex,Apot,Sur,56
+64,15,19,19,29,17.9,97,2,25.8,Thelotrema lepadium,ThLep,Cos,Sex,Apot,Sur,24
+66,15.1,38,19,29,17.9,97,2,25.8,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Norte,8
+69,12.6,30,19,29,17.9,97,2,25.8,Brigantiaea leucoxantha,BrLeu,Cos,Sex,Apot,Noroeste,60
+69,12.6,30,19,29,17.9,97,2,25.8,Graphis leptoclada,GrLep,Cos,Sex,Lirel,Sureste,24
+69,12.6,30,19,29,17.9,97,2,25.8,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Noroeste,52
+69,12.6,30,19,29,17.9,97,2,25.8,Hypotrachyna cf. pulvinata,HyPul,Fol,Sex,Apot,Noroeste,36
+69,12.6,30,19,29,17.9,97,2,25.8,Megalaria bengalensis,MeBen,Cos,Sex,Apot,Noroeste,52
+69,12.6,30,19,29,17.9,97,2,25.8,Parmotrema cf. latissimum,PaLat,Fol,Sex,Apot,Sureste,84
+69,12.6,30,19,29,17.9,97,2,25.8,Parmotrema flavescens,PaFla,Fol,Asex,Isid,Noroeste,72
+72,10,19,19,29,17.9,97,2,25.8,Fibrillithecis confusa,FiCon,Cos,Asex,Isid,Sur,72
+72,10,19,19,29,17.9,97,2,25.8,Graphis leptoclada,GrLep,Cos,Sex,Lirel,Norte,8
+72,10,19,19,29,17.9,97,2,25.8,Herpothallon roseocintum,HeRos,Cos,Asex,Isid,Norte,4
+72,10,19,19,29,17.9,97,2,25.8,Parmotrema sp. ,PaSp,Fol,NaN,NaN,Sur,32
+72,10,19,19,29,17.9,97,2,25.8,Porina distans,PorDi,Cos,Asex,Isid,Norte,4
+73,20,59,19,29,17.9,97,2,25.8,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Este,72
+76,15.1,18,19,29,17.9,97,2,25.8,Cladonia coniocraea,ClCon,Com,Sex,Apot,Sur,8
+76,15.1,18,19,29,17.9,97,2,25.8,Cladonia coniocraea,ClCon,Com,Sex,Apot,Norte,8
+76,15.1,18,19,29,17.9,97,2,25.8,Cresponea sp.,CrChl,Cos,Sex,Apot,Sur,24
+76,15.1,18,19,29,17.9,97,2,25.8,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Norte,84
+76,15.1,18,19,29,17.9,97,2,25.8,Ocellularia landronii,OcLa,Cos,Sex,Apot,Sur,92
+76,15.1,18,19,29,17.9,97,2,25.8,Parmotrema sp. ,PaSp,Fol,NaN,NaN,Sur,4
+77,18,29,19,29,19,97,2,26.8,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Sur,4
+77,18,29,19,29,19,97,2,26.8,Herpothallon sp.,HeSp,Cos,Asex,Isid,Sur,8
+85,22,26,19,29,19,97,2,26.8,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Oeste,4
+85,22,26,19,29,19,97,2,26.8,Parmotrema peralbidum,PaPer,Fol,Sex,Apot,Oeste,4
+85,22,26,19,29,19,97,2,26.8,Usnea cf. brasiliensis,UsBra,Frut,Asex,Sor,Este,4
+88,20,27,19,29,19,97,2,26.8,Herpothallon philippinum,HePhi,Cos,Asex,Isid,Sur,16
+88,20,27,19,29,19,97,2,26.8,Herpothallon roseocintum,HeRos,Cos,Asex,Isid,Sur,28
+88,20,27,19,29,19,97,2,26.8,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Sur,16
+88,20,27,19,29,19,97,2,26.8,Hypotrachyna cf. pulvinata,HyPul,Fol,Sex,Apot,Sur,12
+88,20,27,19,29,19,97,2,26.8,Hypotrachyna sp. ,HySp,Fol,NaN,NaN,Sur,8
+88,20,27,19,29,19,97,2,26.8,Parmotrema flavescens,PaFla,Fol,Asex,Isid,Norte,20
+89,22,24,19,29,19,97,2,26.8,Fibrillithecis confusa,FiCon,Cos,Asex,Isid,Este,4
+89,22,24,19,29,19,97,2,26.8,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Este,4
+89,22,24,19,29,19,97,2,26.8,Hypotrachyna cf. punoensis,HyPun,Fol,Asex,Sor,Este,80
+89,22,24,19,29,19,97,2,26.8,Hypotrachyna sp. ,HySp,Fol,NaN,NaN,Oeste,104
+89,22,24,19,29,19,97,2,26.8,Ocellularia landronii,OcLa,Cos,Sex,Apot,Oeste,36
+89,22,24,19,29,19,97,2,26.8,Parmotrema subisidiosum,PaSub,Fol,Asex,Isid,Este,16
+89,22,24,19,29,19,97,2,26.8,Phyllopsora sp.,PhlSp,Cos,NaN,NaN,Este,68
+89,22,24,19,29,19,97,2,26.8,Polyblastidium japonicum,PolJa,Fol,Asex,Sor,Este,4
+90,20,25,19,29,19,97,2,26.8,Brigantiaea leucoxantha,BrLeu,Cos,Sex,Apot,Noroeste,16
+90,20,25,19,29,19,97,2,26.8,Fibrillithecis confusa,FiCon,Cos,Asex,Isid,Sureste,36
+90,20,25,19,29,19,97,2,26.8,Herpothallon roseocintum,HeRos,Cos,Asex,Isid,Sureste,16
+90,20,25,19,29,19,97,2,26.8,Hypotrachyna cf. punoensis,HyPun,Fol,Asex,Sor,Sureste,12
+90,20,25,19,29,19,97,2,26.8,Parmotrema reticulatum,PaRet,Fol,Asex,Sor,Sureste,64
+90,20,25,19,29,19,97,2,26.8,Usnea cf. mexicana,UsMex,Frut,Asex,Sor,Sureste,24
+98,10,33,19,29,19.4,97,2,27.4,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Oeste,32
+98,10,33,19,29,19.4,97,2,27.4,Ocellularia subcarassensis,OcSbc,Cos,Sex,Apot,Oeste,100
+98,10,33,19,29,19.4,97,2,27.4,Parmotrema cf. subarnoldii,PaSba,Fol,Asex,Sor,Oeste,108
+98,10,33,19,29,19.4,97,2,27.4,Remototrachyna aff. costaricensis,ReCst,Fol,Asex,Isid,Este,180
+98,10,33,19,29,19.4,97,2,27.4,Syncesia farinacea,SyFa,Cos,Sex,Apot,Este,168
+98,10,33,19,29,19.4,97,2,27.4,Usnea cf. mexicana,UsMex,Frut,Asex,Sor,Este,68
+100,15,39,19,29,19.4,97,2,27.4,Herpothallon philippinum,HePhi,Cos,Asex,Isid,Este,104
+112,11,10,19,29,19.4,97,2,27.4,Herpothallon philippinum,HePhi,Cos,Asex,Isid,Norte,4
+112,11,10,19,29,19.4,97,2,27.4,Leptogium cyanescens,LeCya,Fol,Asex,Isid,Norte,48
+112,11,10,19,29,19.4,97,2,27.4,Sticta beauvoisii,StBea,Fol,Asex,Isid,Norte,28
+114,2.5,2,19,29,19.4,97,2,27.4,Malmidea vinosa,MaVin,Cos,Sex,Apot,Norte,20
+114,2.5,2,19,29,19.4,97,2,27.4,Parmotrema sp. ,PaSp,Fol,NaN,NaN,Norte,148
+117,18,31,19,29,19.7,97,2,30.2,Herpothallon roseocintum,HeRos,Cos,Asex,Isid,Norte,60
+117,18,31,19,29,19.7,97,2,30.2,Usnea cf. mexicana,UsMex,Frut,Asex,Sor,Norte,64
+118,5.5,10,19,29,19.7,97,2,30.2,Folioso sp,FoSp,Fol,NaN,NaN,Norte,8
+118,5.5,10,19,29,19.7,97,2,30.2,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Norte,8
+118,5.5,10,19,29,19.7,97,2,30.2,Parmotrema flavescens,PaFla,Fol,Asex,Isid,Norte,24
+119,2.5,5,19,29,19.7,97,2,30.2,Phaeographis sp.,PhSp,Cos,Sex,Lirel,Norte,4
+122,11,47,19,29,19.7,97,2,30.2,Cladonia coniocraea,ClCon,Com,Sex,Apot,Oeste,28
+122,11,47,19,29,19.7,97,2,30.2,Compuesto sp.,ComSt,Com,NaN,NaN,Oeste,4
+122,11,47,19,29,19.7,97,2,30.2,Hypotrachyna vexans,HyVex,Fol,Asex,Isid,Oeste,48
+122,11,47,19,29,19.7,97,2,30.2,Usnea sp.,UsSp,Frut,NaN,NaN,Norte,8
+123,17,40,19,29,19.7,97,2,30.2,Compuesto sp.,ComSt,Com,NaN,NaN,Noreste,76
+123,17,40,19,29,19.7,97,2,30.2,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Noreste,20
+123,17,40,19,29,19.7,97,2,30.2,Ocellularia sp. 1,OcSp1,Cos,NaN,NaN,Norte,28
+124,18,28,19,29,19.7,97,2,30.2,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Noreste,8
+125,15,55,19,29,19.7,97,2,30.2,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Norte,8
+126,25,43,19,29,19.7,97,2,30.2,Fibrillithecis confusa,FiCon,Cos,Asex,Isid,Sur,12
+126,25,43,19,29,19.7,97,2,30.2,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Sur,24
+126,25,43,19,29,19.7,97,2,30.2,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Norte,8
+126,25,43,19,29,19.7,97,2,30.2,Hypotrachyna vexans,HyVex,Fol,Asex,Isid,Este,24
+126,25,43,19,29,19.7,97,2,30.2,Parmotrema cf. latissimum,PaLat,Fol,Sex,Apot,Sur,136
+126,25,43,19,29,19.7,97,2,30.2,Parmotrema flavescens,PaFla,Fol,Asex,Isid,Sur,124
+126,25,43,19,29,19.7,97,2,30.2,Usnea cf. brasiliensis,UsBra,Frut,Asex,Sor,Sur,16
+127,8.8,9,19,29,22.7,97,2,45.3,Usnea cf. mexicana,UsMex,Frut,Asex,Sor,Norte,8
+141,16,41,19,29,22.7,97,2,45.3,Graphis mexicana,GrMex,Cos,Sex,Lirel,Sur,16
+141,16,41,19,29,22.7,97,2,45.3,Hypotrachyna imbricatula,HyImb,Fol,Sex,Apot,Sur,4
+141,16,41,19,29,22.7,97,2,45.3,Hypotrachyna sp. ,HySp,Fol,NaN,NaN,Sur,8
+141,16,41,19,29,22.7,97,2,45.3,Leucodermia cf. appalachensis,LeApp,Fol,Asex,Sor,Sur,12
+141,16,41,19,29,22.7,97,2,45.3,Ocellularia sp. 1,OcSp1,Cos,NaN,NaN,Norte,12
+141,16,41,19,29,22.7,97,2,45.3,Parmotrema cf. subarnoldii,PaSba,Fol,Asex,Sor,Sur,8
+141,16,41,19,29,22.7,97,2,45.3,Parmotrema flavescens,PaFla,Fol,Asex,Isid,Sur,4
+141,16,41,19,29,22.7,97,2,45.3,Parmotrema flavescens,PaFla,Fol,Asex,Isid,Norte,56
+141,16,41,19,29,22.7,97,2,45.3,Usnea cf. mexicana,UsMex,Frut,Asex,Sor,Sur,28
+142,15.2,84,19,29,22.7,97,2,45.3,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Noreste,6
+142,15.2,84,19,29,22.7,97,2,45.3,Hypotrachyna vexans,HyVex,Fol,Asex,Isid,Noreste,10
+142,15.2,84,19,29,22.7,97,2,45.3,Polyblastidium japonicum,PolJa,Fol,Asex,Sor,Noreste,12
+142,15.2,84,19,29,22.7,97,2,45.3,Usnea cf. subfloridana,UsSub,Frut,Asex,Sor,Suroeste,16
+142,15.2,84,19,29,22.7,97,2,45.3,Usnea sp.,UsSp,Frut,NaN,NaN,Suroeste,4
+143,25.9,71,19,29,22.7,97,2,45.3,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Sur,4
+143,25.9,71,19,29,22.7,97,2,45.3,Herpothallon rubrocinctum,HeRub,Cos,Asex,Isid,Norte,4
+143,25.9,71,19,29,22.7,97,2,45.3,Ocellularia sp. 1,OcSp1,Cos,NaN,NaN,Norte,22
+143,25.9,71,19,29,22.7,97,2,45.3,Parmotrema sp. ,PaSp,Fol,NaN,NaN,Sur,8
+143,25.9,71,19,29,22.7,97,2,45.3,Parmotrema subisidiosum,PaSub,Fol,Asex,Isid,Norte,10
+143,25.9,71,19,29,22.7,97,2,45.3,Usnea cf. brasiliensis,UsBra,Frut,Asex,Sor,Sur,4
+143,25.9,71,19,29,22.7,97,2,45.3,Usnea cf. subfloridana,UsSub,Frut,Asex,Sor,Sur,16
+143,25.9,71,19,29,22.7,97,2,45.3,Usnea sp.,UsSp,Frut,NaN,NaN,Sur,4
+155,21.3,39,19,29,26.6,97,2,20.6,Graphis ingarum,GrIng,Cos,Sex,Lirel,Sureste,4
+155,21.3,39,19,29,26.6,97,2,20.6,Hypotrachyna cf. punoensis,HyPun,Fol,Asex,Sor,Noroeste,116
+155,21.3,39,19,29,26.6,97,2,20.6,Hypotrachyna sp. ,HySp,Fol,NaN,NaN,Sureste,12
+155,21.3,39,19,29,26.6,97,2,20.6,Parmotrema flavescens,PaFla,Fol,Asex,Isid,Noroeste,44
